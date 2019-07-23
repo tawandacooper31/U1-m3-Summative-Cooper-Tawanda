@@ -1,13 +1,13 @@
-package com.company.U1M3SummativeCooperTawanda;
+package com.company.Quotes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class U1M3SummativeCooperTawandaApplication {
+public class QuotesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(U1M3SummativeCooperTawandaApplication.class, args);
+		SpringApplication.run(QuotesApplication.class, args);
 	}
 
 }
